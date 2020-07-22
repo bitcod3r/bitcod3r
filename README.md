@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+<img  src="https://raw.githubusercontent.com/bitcod3r/bitcod3r/39e8cde1123feb56707bf5d9b431b34e2e8cfeff/600x200_2.27mb.gif" width="1200" alt="Guillermo Garcia - aka bitcoder">
+![Guillermo Garcia - aka bitcoder](600x200_2.27mb.gif?raw=true "Guillermo Garcia - aka bitcoder")
 <!--
 **bitcod3r/bitcod3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
