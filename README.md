@@ -8,13 +8,17 @@
 
 <p align="center">
     <samp>
-    A Software Engineer based in Quito, Ecuador. Born 1977.
+    A Software Engineer based in Quito, Ecuador. Born 1977.<br>
     Focused on enabling teams to work together on high tech products.
   <br><br>
-    For more information about me (and a whole lot of shenanigans), check out 
-    [bitcoder.net](https://www.bitcoder.net).
-    
-  </samp>
+    For more information about me (and a whole lot of shenanigans), check out:
+   </samp> 
+</p>
+
+<p align="center">
+    <a href="https://twitter.com/bitcoder">
+        <img src="https://img.shields.io/badge/bitcoder.net-%231DA1F2.svg?&style=for-the-badge&logo=website&logoColor=white" alt="Twitter">
+    </a>
 </p>
 
 <p align="center">
