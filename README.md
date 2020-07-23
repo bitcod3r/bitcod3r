@@ -1,4 +1,4 @@
-<h2 align='center'> :octocat: ¡Hola! 👋 🧑🏻‍💻 </h2>
+<h2 align='center'> ¡Hola! 👋 🧑🏻‍💻 :octocat:  </h2>
 
 <p align="center">
 
