@@ -1,12 +1,21 @@
+<h2 align='center'>  Hi there, I'm bitcoder 👋 🧑🏻‍💻 </h2>
+
+<p align="center">
+
 [<img  src="https://raw.githubusercontent.com/bitcod3r/bitcod3r/master/head_banner.gif" width="1200" alt="Guillermo Garcia - aka bitcoder">](https://www.bitcoder.net)
 
-## Hi. I’m Guillermo! 👋
+</p>
 
-A Software Engineer based in **Quito, Ecuador**. Born 1977.
-Focused on enabling teams to work together on high tech products.
-
-For more information about me (and a whole lot of shenanigans), check out 
-[bitcoder.net](https://www.bitcoder.net).
+<p align="center">
+    <samp>
+    A Software Engineer based in Quito, Ecuador. Born 1977.
+    Focused on enabling teams to work together on high tech products.
+  <br><br>
+    For more information about me (and a whole lot of shenanigans), check out 
+    [bitcoder.net](https://www.bitcoder.net).
+    
+  </samp>
+</p>
 
 <p align="center">
 	<a href="https://twitter.com/bitcoder">
