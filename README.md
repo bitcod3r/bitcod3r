@@ -1,4 +1,4 @@
-<h2 align='center'>  Hi there, I'm bitcoder 👋 🧑🏻‍💻 </h2>
+<h2 align='center'> :octocat: ¡Hola! 👋 🧑🏻‍💻 </h2>
 
 <p align="center">
 
@@ -8,7 +8,7 @@
 
 <p align="center">
     <samp>
-    A Software Engineer based in Quito, Ecuador. Born 1977.<br>
+     I'm bitcoder. A Software Engineer based in Quito, Ecuador. Born 1977.<br>
     Focused on enabling teams to work together on high tech products.
   <br><br>
     For more information about me (and a whole lot of shenanigans), check out:
