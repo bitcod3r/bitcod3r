@@ -1,4 +1,4 @@
-<h2 align='center'> ¡Hola! 👋 🧑🏻‍💻 :octocat:  </h2>
+<h1 align='center'> ¡Hola! 👋 🧑🏻‍💻 :octocat:  </h1>
 
 <p align="center">
 
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-    <a href="https://twitter.com/bitcoder">
+    <a href="https://wwww.bitcoder.net">
         <img src="https://img.shields.io/badge/bitcoder.net-%231DA1F2.svg?&style=for-the-badge&logo=website&logoColor=white" alt="Twitter">
     </a>
 </p>
