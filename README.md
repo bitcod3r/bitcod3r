@@ -17,7 +17,7 @@
 
 <p align="center">
     <a href="https://www.bitcoder.net">
-        <img src="https://img.shields.io/badge/bitcoder.net-%231DA1F2.svg?&style=for-the-badge&logo=website&logoColor=white" alt="Twitter">
+        <img src="https://img.shields.io/badge/bitcoder.net-%231DA1F2.svg?&style=for-the-badge&logo=website&logoColor=white" alt="Bitcoder Homepage">
     </a>
 </p>
 
